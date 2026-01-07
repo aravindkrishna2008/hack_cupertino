@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ffmpeg-kit-react-native": "^6.0.2",
+    "react-speech-kit": "^3.0.1"
+  }
+}
